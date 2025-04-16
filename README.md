@@ -19,11 +19,11 @@ P.S. Snow falling after clicking on "Get Gift" is disabled
 
 ## Screenshot
 
-![](screenshot.png)
+![](./images/screenshot.png)
 
 ## Links
 
-[Background Changer Page](https://your-solution-url.com)
+[Background Changer Page](https://axinitm.github.io/ICodeThis-Christmas-Promo/)
 
 ## Built with
 
